@@ -1,0 +1,40 @@
+<html>
+<head>
+    <title>Welcome to SellNBye</title>
+   
+
+</head> 
+<body>
+    <header>
+        
+    <div class="row">
+        <div class="logo">
+        <img src="images/logo.png">
+        
+    </div>
+            
+    <ul class="main-nav">    
+        <li class="active"><a href=""> HOME </a></li>
+        <li><a href=""> SIGNUP </a></li>
+        <li><a href=""> REGISTER </a></li>
+        <li><a href=""> PRODUCTS </a></li>
+        <li><a href=""> ORDERS </a></li>
+        <li><a href=""> SHOPPING CART </a></li>
+     
+    </ul>    
+        
+    </div>
+        
+    <div class="hero">
+    <h1>Shop With Us</h1>
+        
+   
+            
+    </div>
+    
+    </header>
+
+
+        
+</body>    
+</html>
